@@ -1,4 +1,3 @@
-# Mabu1
-Myfirstrepository
-This is my project in the GITHUB
-My name is hussain
+# maven-project
+
+Simple Maven Project
